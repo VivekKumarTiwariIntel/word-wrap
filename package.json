@@ -1,23 +1,15 @@
 {
-  "name": "@aashutoshrathi/word-wrap",
+  "name": "@vivekkumartiwari/word-wrap",
   "description": "Wrap words to a specified length.",
-  "version": "1.2.5",
-  "homepage": "https://github.com/aashutoshrathi/word-wrap",
-  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "version": "1.2.8",
+  "homepage": "https://github.com/vivekkumartiwari/word-wrap",
+  "author": "Vivek",
   "contributors": [
-    "Aashutosh Rathi <aashutoshrathi@gmail.com>",
-    "Danilo Sampaio <danilo.sampaio@gmail.com> (localhost:8080)",
-    "Fede Ramirez <i@2fd.me> (https://2fd.github.io)",
-    "Joe Hildebrand <joe-github@cursive.net> (https://twitter.com/hildjj)",
-    "Jon Schlinkert <jon.schlinkert@sellside.com> (http://twitter.com/jonschlinkert)",
-    "Todd Kennedy (https://tck.io)",
-    "Waldemar Reusch (https://github.com/lordvlad)",
-    "Wolfgang Faust (http://www.linestarve.com)",
-    "Zach Hale <zachhale@gmail.com> (http://zachhale.com)"
+    "Vivek"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aashutoshrathi/word-wrap.git"
+    "url": "git+https://github.com/VivekKumarTiwariIntel/word-wrap.git"
   },
   "bugs": {
     "url": "https://github.com/aashutoshrathi/word-wrap/issues"
